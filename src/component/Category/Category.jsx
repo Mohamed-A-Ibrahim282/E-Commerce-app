@@ -49,7 +49,7 @@ const Category = () => {
                           getSubcategory(element._id, element.name);
                         }}
                         className="btn btn-success"
-                        href="#subcategory"
+{/*                         href="#subcategory" */}
                       >
                         Show subcategories
                       </a>
