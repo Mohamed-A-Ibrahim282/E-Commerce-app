@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/E-Commerce-app/static/css/main.c53e2fe4.css",
-    "main.js": "/E-Commerce-app/static/js/main.9c45b6da.js",
+    "main.js": "/E-Commerce-app/static/js/main.f10a5e64.js",
     "static/js/787.b11e4fa6.chunk.js": "/E-Commerce-app/static/js/787.b11e4fa6.chunk.js",
-    "static/media/slider-2.jpeg": "/E-Commerce-app/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
     "static/media/fa-solid-900.ttf": "/E-Commerce-app/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
-    "static/media/slider-image-1.jpeg": "/E-Commerce-app/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
-    "static/media/grocery-banner.png": "/E-Commerce-app/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/panner3.jpg": "/E-Commerce-app/static/media/panner3.cef9cdee39cc84d49c16.jpg",
     "static/media/loading2.gif": "/E-Commerce-app/static/media/loading2.64a3b49978733bb5e3ed.gif",
     "static/media/fa-brands-400.ttf": "/E-Commerce-app/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
     "static/media/slider-image-3.jpeg": "/E-Commerce-app/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
-    "static/media/slider-image-2.jpeg": "/E-Commerce-app/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
-    "static/media/grocery-banner-2.jpeg": "/E-Commerce-app/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
     "static/media/fa-solid-900.woff2": "/E-Commerce-app/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
     "static/media/fa-brands-400.woff2": "/E-Commerce-app/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/panner4.jpg": "/E-Commerce-app/static/media/panner4.a30d84e9e83a637e3868.jpg",
+    "static/media/panner5.jpg": "/E-Commerce-app/static/media/panner5.2c3ead9509a43516d4b3.jpg",
     "static/media/error.svg": "/E-Commerce-app/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
     "static/media/fa-regular-400.ttf": "/E-Commerce-app/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/panner2.jpg": "/E-Commerce-app/static/media/panner2.58749ab66e63ece6f8a6.jpg",
+    "static/media/panner1.jpg": "/E-Commerce-app/static/media/panner1.a19cf1bbcf4fe882700b.jpg",
     "static/media/fa-regular-400.woff2": "/E-Commerce-app/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
     "static/media/payment2.png": "/E-Commerce-app/static/media/payment2.c91e12b219506d8fbfa9.png",
+    "static/media/profile.png": "/E-Commerce-app/static/media/profile.82aa503db370348409af.png",
     "static/media/payment7.png": "/E-Commerce-app/static/media/payment7.43777e9b902128f3c570.png",
     "static/media/fa-v4compatibility.ttf": "/E-Commerce-app/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
     "static/media/freshcart-logo.svg": "/E-Commerce-app/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
@@ -28,11 +29,11 @@
     "static/media/slick.woff": "/E-Commerce-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/E-Commerce-app/index.html",
     "main.c53e2fe4.css.map": "/E-Commerce-app/static/css/main.c53e2fe4.css.map",
-    "main.9c45b6da.js.map": "/E-Commerce-app/static/js/main.9c45b6da.js.map",
+    "main.f10a5e64.js.map": "/E-Commerce-app/static/js/main.f10a5e64.js.map",
     "787.b11e4fa6.chunk.js.map": "/E-Commerce-app/static/js/787.b11e4fa6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c53e2fe4.css",
-    "static/js/main.9c45b6da.js"
+    "static/js/main.f10a5e64.js"
   ]
 }
